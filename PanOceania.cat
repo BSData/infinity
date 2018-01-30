@@ -8937,7 +8937,7 @@
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b405-578f-37d9-9645" type="max"/>
       </constraints>
       <categoryLinks>
-        <categoryLink id="d840-f238-39cd-d760" name="New CategoryLink" hidden="false" targetId="e771-f98d-0dba-134a" primary="false">
+        <categoryLink id="d840-f238-39cd-d760" name="New CategoryLink" hidden="false" targetId="e771-f98d-0dba-134a" primary="true">
           <profiles/>
           <rules/>
           <infoLinks/>
