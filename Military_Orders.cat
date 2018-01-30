@@ -596,7 +596,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="9166-7ad2-a3a8-1f47" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="9166-7ad2-a3a8-1f47" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -999,7 +999,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="c35b-9c55-5d7c-cbc0" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="c35b-9c55-5d7c-cbc0" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -4321,7 +4321,7 @@ Valid Compositions:
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="afae-94ec-7231-caaa" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="afae-94ec-7231-caaa" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -5109,7 +5109,7 @@ Valid Compositions:
         <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ce54-eed6-4abb-404c" type="max"/>
       </constraints>
       <categoryLinks>
-        <categoryLink id="aba2-246d-6867-fb55" name="New CategoryLink" hidden="false" targetId="e771-f98d-0dba-134a" primary="false">
+        <categoryLink id="aba2-246d-6867-fb55" name="New CategoryLink" hidden="false" targetId="e771-f98d-0dba-134a" primary="true">
           <profiles/>
           <rules/>
           <infoLinks/>

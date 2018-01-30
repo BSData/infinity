@@ -110,7 +110,7 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="20c6-106b-bc15-5fc2" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="20c6-106b-bc15-5fc2" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -253,7 +253,7 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="c38b-7eb9-035b-4927" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="c38b-7eb9-035b-4927" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -350,7 +350,7 @@
                 <cost name=" Lieutenant" costTypeId="dae9-83a5-9172-11c7" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="7585-9e39-0696-ecda" name="Sapper" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="7585-9e39-0696-ecda" name="MULTI Sniper Rifle + Sapper" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -615,7 +615,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="cc57-9564-8eb2-eaa5" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="cc57-9564-8eb2-eaa5" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -1014,7 +1014,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="74b7-65f2-8c11-b7e1" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="74b7-65f2-8c11-b7e1" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -1339,7 +1339,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="d0b0-539b-95f5-9595" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="d0b0-539b-95f5-9595" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -1900,7 +1900,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="ed83-93f3-feda-7163" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="ed83-93f3-feda-7163" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -2843,7 +2843,7 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="e924-fb23-6849-609e" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="e924-fb23-6849-609e" name="Combi Rifle + Light Shotgun" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -3176,7 +3176,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="dc29-c964-2b6a-4439" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="dc29-c964-2b6a-4439" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -3417,7 +3417,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="dfe5-811e-e6f5-ce69" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="dfe5-811e-e6f5-ce69" name="Combi Rifle + Light Shotgun" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -3806,7 +3806,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="153a-ad61-1098-12ed" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="153a-ad61-1098-12ed" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -3936,7 +3936,7 @@
                 <cost name=" Lieutenant" costTypeId="dae9-83a5-9172-11c7" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="14c9-51a0-e780-75d3" name="E/Mitter" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="14c9-51a0-e780-75d3" name="Combi Rifle + E/Mitter" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -4075,7 +4075,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="d7a6-d053-5d4c-288a" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="d7a6-d053-5d4c-288a" name="Combi Rifle + Light Shotgun" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>

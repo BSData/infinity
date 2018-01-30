@@ -84,7 +84,7 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="d7e2-cbad-ec04-57aa" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="d7e2-cbad-ec04-57aa" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -181,7 +181,7 @@
                 <cost name=" Lieutenant" costTypeId="dae9-83a5-9172-11c7" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="2583-de4f-ce57-7545" name="Sapper" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="2583-de4f-ce57-7545" name="MULTI Sniper Rifle + Sapper" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -460,7 +460,7 @@
             </categoryLink>
           </categoryLinks>
           <selectionEntries>
-            <selectionEntry id="17be-a56c-50a4-09c0" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="17be-a56c-50a4-09c0" name="Combi Rifle" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -590,7 +590,7 @@
                 <cost name=" Lieutenant" costTypeId="dae9-83a5-9172-11c7" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="6a6c-48dc-2632-b305" name="E/Mitter" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="6a6c-48dc-2632-b305" name="Combi Rifle + E/Mitter" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
@@ -1043,7 +1043,7 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="6a01-be26-6bba-5712" name="Grunt" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="6a01-be26-6bba-5712" name="Combi Rifle + Light Shotgun" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks>
